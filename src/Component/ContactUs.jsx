@@ -117,7 +117,7 @@ const serviceCard = {
                         transition={{ type: "spring", stiffness: 400 }}
                         ><MdEmail/></motion.a> 
 
-                        <motion.a href='https://github.com/BlackBlesson'
+                        <motion.a href='https://github.com/Blesson-12'
                         target='_blank'
                         rel="noopener noreferrer"
                        whileHover={{scale:1.2}}
