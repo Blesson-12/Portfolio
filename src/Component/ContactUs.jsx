@@ -131,7 +131,7 @@ const serviceCard = {
                         transition={{ type: "spring", stiffness: 400 }}
                         ><FaInstagram/></motion.a> 
 
-                        <motion.a href='https://www.linkedin.com/in/blesson12/'
+                        <motion.a href='https://www.linkedin.com/in/blesson12'
                         target='_blank'
                         rel="noopener noreferrer"
                        whileHover={{scale:1.2}}
